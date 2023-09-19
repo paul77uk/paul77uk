@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on something interesting
 - 🤔 I’m looking for help with getting a job as a web devloper
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/paul-vickers-45a242155/) 
+- 📫 How to reach me: <i class="fa-brands fa-linkedin"></i>[LinkedIn](https://www.linkedin.com/in/paul-vickers-45a242155/) 
