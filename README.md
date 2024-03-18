@@ -2,7 +2,7 @@
 <h3>A FullStack developer from UK</h3>
 
 <style>
-     "baxckground": "white";     
+     "background": "white";     
 </style>
 
 
