@@ -1,6 +1,11 @@
 <h1>Hi 👋, I'm Paul Vickers</h1>
 <h3>A FullStack developer from UK</h3>
 
+<style>
+     backgorund: "white";     
+</style>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//paul-vickers-45a242155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/paul-vickers-45a242155" height="30" width="40" /></a>
